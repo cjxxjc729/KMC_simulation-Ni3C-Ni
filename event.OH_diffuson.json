@@ -1,0 +1,182 @@
+{
+    "OH_diff_1_1": {
+        "property": "bond", 
+        "ordered": true,
+        "site_pair": [
+            "1",
+            "1"
+        ],
+        "rea": [
+            "OH",
+            "*"
+        ],
+        "pro": [
+            "*",
+            "OH"
+        ],
+        "Ea_np": [
+            0.37,
+            0.37
+        ]
+    },
+    "OH_diff_1_2": {
+        "property": "bond", 
+        "ordered": true,
+        "site_pair": [
+            "1",
+            "2"
+        ],
+        "rea": [
+            "OH",
+            "*"
+        ],
+        "pro": [
+            "*",
+            "OH"
+        ],
+        "Ea_np": [
+            0.47,
+            0.28
+        ]
+    },
+    "OH_diff_2_3": {
+        "property": "bond", 
+        "ordered": true,
+        "site_pair": [
+            "2",
+            "3"
+        ],
+        "rea": [
+            "OH",
+            "*"
+        ],
+        "pro": [
+            "*",
+            "OH"
+        ],
+        "Ea_np": [
+            0.33,
+            0.37
+        ]
+    },
+    "OH_diff_3_4": {
+        "property": "bond", 
+        "ordered": true,
+        "site_pair": [
+            "3",
+            "4"
+        ],
+        "rea": [
+            "OH",
+            "*"
+        ],
+        "pro": [
+            "*",
+            "OH"
+        ],
+        "Ea_np": [
+            0.29,
+            0.30
+        ]
+    },
+    "OH_diff_4_5": {
+        "property": "bond", 
+        "ordered": true,
+        "site_pair": [
+            "4",
+            "5"
+        ],
+        "rea": [
+            "OH",
+            "*"
+        ],
+        "pro": [
+            "*",
+            "OH"
+        ],
+        "Ea_np": [
+            0.11,
+            0.25
+        ]
+    },
+    "OH_diff_5_5": {
+        "property": "bond", 
+        "ordered": true,
+        "site_pair": [
+            "5",
+            "5"
+        ],
+        "rea": [
+            "OH",
+            "*"
+        ],
+        "pro": [
+            "*",
+            "OH"
+        ],
+        "Ea_np": [
+            0.18,
+            0.18
+        ]
+    },
+    "OH_diff_2_1": {
+        "property": "bond", 
+        "ordered": true,
+        "site_pair": [
+            "2",
+            "1"
+        ],
+        "rea": [
+            "OH",
+            "*"
+        ],
+        "pro": [
+            "*",
+            "OH"
+        ],
+        "Ea_np": [
+            0.28,
+            0.47
+        ]
+    },
+    "OH_diff_3_2": {
+        "property": "bond", 
+        "ordered": true,
+        "site_pair": [
+            "2",
+            "3"
+        ],
+        "rea": [
+            "OH",
+            "*"
+        ],
+        "pro": [
+            "*",
+            "OH"
+        ],
+        "Ea_np": [
+            0.37,
+            0.33
+        ]
+    },
+    "OH_diff_4_3": {
+        "property": "bond", 
+        "ordered": true,
+        "site_pair": [
+            "3",
+            "4"
+        ],
+        "rea": [
+            "OH",
+            "*"
+        ],
+        "pro": [
+            "*",
+            "OH"
+        ],
+        "Ea_np": [
+            0.30,
+            0.29
+        ]
+    }
+}

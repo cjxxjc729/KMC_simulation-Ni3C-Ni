@@ -1,0 +1,36 @@
+{
+    "water_ele_diss_1": {
+        "property": "site", 
+        "ordered": false,
+        "site_pair": [
+            "1"
+        ],
+        "rea": [
+            "*"
+        ],
+        "pro": [
+            "OH"
+        ],
+        "Ea_np": [
+            0.025,
+            0.045
+        ]
+    },
+    "water_ele_diss_5": {
+        "property": "site", 
+        "ordered": false,
+        "site_pair": [
+            "5"
+        ],
+        "rea": [
+            "*"
+        ],
+        "pro": [
+            "OH"
+        ],
+        "Ea_np": [
+            0.62,
+            0.58
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "H_ele_add_1": {
+        "property": "site", 
+        "ordered": false,
+        "site_pair": [
+            "1"
+        ],
+        "rea": [
+            "*"
+        ],
+        "pro": [
+            "H"
+        ],
+        "Ea_np": [
+            0.025,
+            0.535
+        ]
+    },
+    "H_ele_add_1_5": {
+        "property": "site", 
+        "ordered": false,
+        "site_pair": [
+            "5"
+        ],
+        "rea": [
+            "*"
+        ],
+        "pro": [
+            "H"
+        ],
+        "Ea_np": [
+            0.125,
+            0.455
+        ]
+    }
+}

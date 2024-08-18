@@ -1,0 +1,42 @@
+{
+    "water_diss_ni": {
+        "property": "bond", 
+        "ordered": false,
+        "site_pair": [
+            "5",
+            "5"
+        ],
+        "rea": [
+            "*",
+            "*"
+        ],
+        "pro": [
+            "H",
+            "OH"
+        ],
+        "Ea_np": [
+            0.83,
+            1.40
+        ]
+    },
+    "water_diss_ni3c": {
+        "property": "bond", 
+        "ordered": false,
+        "site_pair": [
+            "1",
+            "1"
+        ],
+        "rea": [
+            "*",
+            "*"
+        ],
+        "pro": [
+            "H",
+            "OH"
+        ],
+        "Ea_np": [
+            0.69,
+            1.44
+        ]
+    }
+}
