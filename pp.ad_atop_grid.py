@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+
 f_atoms=input('enter the str file (cif): ')
 #f_id_list=input('enter the surf_id_list file')
 
