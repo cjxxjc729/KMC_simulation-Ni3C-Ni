@@ -1,5 +1,3 @@
-#!/home/cjx/deepmd-kit-2.2.9/bin/python3.11
-
 import sys
 if len(sys.argv) != 2:
     print("usage kmc.py <strucutre files in xyz, with reaction sites marked by ar>")
