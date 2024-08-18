@@ -1,4 +1,4 @@
-#!/home/cjx/deepmd-kit-2.2.9/bin/python3.11
+
 
 import numpy as np
 
