@@ -1,6 +1,7 @@
 # KMC_simulation-Ni3C-Ni
 ## descriptions:
 
+This project focuses on a kinetic Monte Carlo simulation code for the reaction H + OH → H2O on Ni3C-Ni and Ni. The goal is to demonstrate that on pure Ni, the formation of OH through water dissociation is more difficult, making the direct H + OH → H2O reaction less favorable. On the other hand, Ni3C facilitates easier water dissociation to form OH, with faster OH diffusion. Thus, in the presence of Ni3C, Ni can utilize Ni3C as an auxiliary catalyst, absorbing and reacting with OH transferred from Ni3C to facilitate the H + OH → H2O reaction.
 
 ## usage : 
 
